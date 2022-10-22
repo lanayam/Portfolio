@@ -7,7 +7,7 @@
   <div class="container__about" id="About">
  <!-- Import the frank image and have it as our image source with width = 180px and height = 123px -->
    <!--  <img width={180} height={123} src={frank} alt="" />   --> 
-    <p class="header--small">Hi, I'm Lizbeth!</p>
+    <p class="header--small"> My name is Lizbeth!</p>
     <p class="header--big">WELCOME TO MY PORTFOLIO</p>
   </div>
 </section>
